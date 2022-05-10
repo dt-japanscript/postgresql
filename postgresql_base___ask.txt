@@ -1,0 +1,6 @@
+GIỚI THIỆU VỀ CƠ SỞ DỮ LIỆU
+1. What is in the database?
+SQL là gì?
+Cơ sở dữ liệu là gì?
+Cơ sở dữ liệu quan hệ là gì?
+SQL là gì?
