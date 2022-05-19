@@ -14,3 +14,5 @@ Trường Field là gì?
 Comment là gì?
 Cách comment trên một dòng
 Cách comment nhiều dòng
+
+4. Errors
