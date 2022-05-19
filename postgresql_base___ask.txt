@@ -4,3 +4,9 @@ SQL là gì?
 Cơ sở dữ liệu là gì?
 Cơ sở dữ liệu quan hệ là gì?
 SQL là gì?
+
+2. Table
+Bảng là gì?
+Bản ghi Record là gì?
+Trường Field là gì?
+
