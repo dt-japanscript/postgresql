@@ -10,3 +10,7 @@ Bảng là gì?
 Bản ghi Record là gì?
 Trường Field là gì?
 
+3. Command
+Comment là gì?
+Cách comment trên một dòng
+Cách comment nhiều dòng
