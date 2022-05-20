@@ -1,18 +1,25 @@
 GIỚI THIỆU VỀ CƠ SỞ DỮ LIỆU
 1. What is in the database?
-SQL là gì?
-Cơ sở dữ liệu là gì?
-Cơ sở dữ liệu quan hệ là gì?
-SQL là gì?
+- SQL là gì?
+- Cơ sở dữ liệu là gì?
+- Cơ sở dữ liệu quan hệ là gì?
+- SQL là gì?
 
 2. Table
-Bảng là gì?
-Bản ghi Record là gì?
-Trường Field là gì?
+- Bảng là gì?
+- Bản ghi Record là gì?
+- Trường Field là gì?
 
 3. Command
-Comment là gì?
-Cách comment trên một dòng
-Cách comment nhiều dòng
+- Comment là gì?
+- Cách comment trên một dòng
+- Cách comment nhiều dòng
 
 4. Errors
+5. PostgreSQL Data Types p.5
+- Kể tên một số loại dữ liệu có sẵn trong PostgreSQL?
+- Kể tên các kiểu dữ liệu văn bản có sẵn trong PostgreSQL?
+- Kể tên các kiểu dữ liệu số trong PostgreSQL?
+- Giới thiệu về kiểu Boolean trong PostgreSQL?
+- Kiểu dữ liệu tạm thời là gì?
+
