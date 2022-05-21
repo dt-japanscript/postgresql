@@ -23,3 +23,10 @@ GIỚI THIỆU VỀ CƠ SỞ DỮ LIỆU
 - Giới thiệu về kiểu Boolean trong PostgreSQL?
 - Kiểu dữ liệu tạm thời là gì?
 
+KHỞI TẠO BẢNG
+10. Create Table Statement
+Cú pháp để tạo bảng trong PostgreSQL là gì?
+11. Insert Statement
+Câu lệnh để chèn hàng vào bảng là gì?
+Câu lệnh để thêm nhiều hàng vào 1 bảng cùng một lúc là gì?
+Câu lệnh để chèn dữ liệu từ 1 bảng khác?
