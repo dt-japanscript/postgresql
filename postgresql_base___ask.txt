@@ -30,3 +30,8 @@ Cú pháp để tạo bảng trong PostgreSQL là gì?
 Câu lệnh để chèn hàng vào bảng là gì?
 Câu lệnh để thêm nhiều hàng vào 1 bảng cùng một lúc là gì?
 Câu lệnh để chèn dữ liệu từ 1 bảng khác?
+
+Cách tạo một dãy số để làm cột khóa chính trong bảng?
+Câu lệnh để thêm cột mới vào bảng hiện có là gì?
+Câu lệnh thay đổi kiểu dữ liệu của cột trong PostgreSQL?
+Câu lệnh đổi tên một cột của bảng
