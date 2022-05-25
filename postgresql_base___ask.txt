@@ -35,3 +35,13 @@ Cách tạo một dãy số để làm cột khóa chính trong bảng?
 Câu lệnh để thêm cột mới vào bảng hiện có là gì?
 Câu lệnh thay đổi kiểu dữ liệu của cột trong PostgreSQL?
 Câu lệnh đổi tên một cột của bảng
+
+HIỂU BIẾT VỀ NHỮNG RÀNG BUỘC
+Có mấy loại ràng buộc toàn vẹn?
+Tại sao cần sử dụng ràng buộc?
+Câu lệnh để thêm ràng buộc vào bảng đã tồn tại là gì?
+Có mấy loại ràng buộc thuộc tính đặc biệt? Kể tên?
+Khóa chính là gì?
+Giá trị của cột được chọn làm khóa chính có thể trùng lặp hoặc rỗng được không?
+Keyword để tạo khóa chính khi tạo bảng trong CSDL là gì?
+Tạo bảng products và thêm 2 khóa chỉnh product_no_1, product_no_2 ?
