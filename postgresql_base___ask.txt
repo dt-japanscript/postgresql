@@ -45,3 +45,11 @@ Khóa chính là gì?
 Giá trị của cột được chọn làm khóa chính có thể trùng lặp hoặc rỗng được không?
 Keyword để tạo khóa chính khi tạo bảng trong CSDL là gì?
 Tạo bảng products và thêm 2 khóa chỉnh product_no_1, product_no_2 ?
+
+Khóa ngoại là gì? p.28
+Kể ra những quy định đối với khóa ngoại foreign key? p.26
+Câu lệnh để định nghĩa khóa ngoại (Foreign Key) khi tạo bảng?
+Toàn vẹn tham chiếu là gì? p.27
+Tính toàn vẹn tham chiếu có thể bị vi phạm trong trường hợp nào? p.27
+Ràng buộc CHECK là gì? p.29
+Câu lệnh để loại bỏ một ràng buộc là gì? p.31
